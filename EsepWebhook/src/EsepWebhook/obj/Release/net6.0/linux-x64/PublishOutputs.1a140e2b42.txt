@@ -3,4 +3,5 @@ C:\Users\makam\Desktop\UF Classes\Fall 2023\CIS4930\Event Architecture\EsepWebho
 C:\Users\makam\Desktop\UF Classes\Fall 2023\CIS4930\Event Architecture\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\EsepWebhook.pdb
 C:\Users\makam\Desktop\UF Classes\Fall 2023\CIS4930\Event Architecture\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
 C:\Users\makam\Desktop\UF Classes\Fall 2023\CIS4930\Event Architecture\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\makam\Desktop\UF Classes\Fall 2023\CIS4930\Event Architecture\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\Newtonsoft.Json.dll
 C:\Users\makam\Desktop\UF Classes\Fall 2023\CIS4930\Event Architecture\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\publish\EsepWebhook.dll

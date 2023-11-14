@@ -15,3 +15,4 @@ C:\Users\makam\Desktop\UF Classes\Fall 2023\CIS4930\Event Architecture\EsepWebho
 C:\Users\makam\Desktop\UF Classes\Fall 2023\CIS4930\Event Architecture\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.pdb
 C:\Users\makam\Desktop\UF Classes\Fall 2023\CIS4930\Event Architecture\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.genruntimeconfig.cache
 C:\Users\makam\Desktop\UF Classes\Fall 2023\CIS4930\Event Architecture\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\ref\EsepWebhook.dll
+C:\Users\makam\Desktop\UF Classes\Fall 2023\CIS4930\Event Architecture\EsepWebhook\src\EsepWebhook\bin\Release\net6.0\linux-x64\Newtonsoft.Json.dll
